@@ -1,0 +1,7 @@
+jupyterlab
+ipywidgets
+matplotlib
+pandas
+jupyterlab-dash
+seaborn
+sklearn 
